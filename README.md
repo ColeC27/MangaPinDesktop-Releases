@@ -1,7 +1,7 @@
 # MangaPin Desktop Releases/Updates
 Public updates for MangaPin desktop.
 
-## Download MangaPin
+## Download Latest Release
 
 | Platform | Download |
 |----------|----------|
@@ -9,6 +9,7 @@ Public updates for MangaPin desktop.
 | **Mac** (Apple Silicon) | [Download for Mac](https://github.com/ColeC27/MangaPinDesktop-Releases/releases/latest/download/MangaPin-Mac-arm64.dmg) |
 | **Linux** | [Download for Linux](https://github.com/ColeC27/MangaPinDesktop-Releases/releases/latest/download/MangaPin-Linux.AppImage) |
 
-Or browse all files: [Latest release](https://github.com/ColeC27/MangaPinDesktop-Releases/releases/latest)
+Or browse all releases: [All releases](https://github.com/ColeC27/MangaPinDesktop-Releases/releases/)
+
 
 All rights reserved. Subject to MangaPin license.
