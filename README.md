@@ -2,7 +2,7 @@
 App auto-updates, no need to redownload.
 
 #### DISCLAIMER: 
-The app is unsigned, as that would mean paying hundreds each year. That means it may be more difficult to open than other apps you are used to. Read the bottom of this document for instructions. 
+The app is unsigned, as that would mean paying hundreds each year. Due to this, MangaPin Desktop may be more difficult to open than other apps you are used to. Read the bottom of this document for instructions if needed.
 
 ## Download Latest Release:
 
