@@ -1,7 +1,7 @@
 # MangaPin Desktop Releases/Updates
-Public updates for MangaPin desktop.
+App auto-updates, no need to redownload.
 
-## Download Latest Release
+## Download Latest Release:
 
 | Platform | Download |
 |----------|----------|
