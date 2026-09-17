@@ -1,11 +1,10 @@
 # MangaPin Desktop Releases/Updates
 App auto-updates, no need to redownload.
 
-## Download Latest Release:
-
-### DISCLAIMER: 
+#### DISCLAIMER: 
 The app is unsigned, as that would mean paying hundreds each year. That means it may be more difficult to open than other apps you are used to. Read the bottom of this document for instructions. 
 
+## Download Latest Release:
 
 | Platform | Download |
 |----------|----------|
@@ -34,4 +33,15 @@ If macOS still blocks it:
 4. Confirm **Open**
 You only need to do this once per install.
 
-All rights reserved. Subject to MangaPin license.
+### Opening on Linux:
+1. Right-click the file → **Properties** → **Permissions** → enable **Allow executing file as program**.
+2. Double-click it.
+If double-click does nothing, in a terminal:
+```bash
+chmod +x MangaPin-Linux.AppImage
+./MangaPin-Linux.AppImage
+```
+On some Ubuntu versions, AppImages also need FUSE (`libfuse2`).
+
+
+<sub>All rights reserved. Subject to MangaPin license.</sub>   
