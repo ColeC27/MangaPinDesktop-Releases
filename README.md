@@ -19,18 +19,18 @@ Or browse [all releases](https://github.com/ColeC27/MangaPinDesktop-Releases/rel
    - Click **More info**
    - Click **Run anyway**
 2. If the `.exe` still will not start: right-click it → **Properties** → check **Unblock** → **Apply** → **OK**, then run it again.
-After the first **Run anyway**, Windows usually stops asking.
+After the first **Run anyway**, Windows usually stops asking.  
 If **Smart App Control** is on (some Windows 11 PCs), it can block unsigned apps entirely. You'll have to turn it off.
 
 ### Opening on Mac:
 1. Open the `.dmg` and drag **MangaPin** to **Applications**.
 2. Do **not** double-click it the first time (Gatekeeper will refuse).
-3. In **Applications**, **Control-click** (or right-click) **MangaPin** → **Open** → **Open**.
+3. In **Applications**, **Control-click** (or right-click) **MangaPin** → **Open** → **Open**.  
 If macOS still blocks it:
 1. **System Settings** → **Privacy & Security**
 2. Scroll to the message that MangaPin was blocked
 3. Click **Open Anyway**
-4. Confirm **Open**
+4. Confirm **Open**  
 You only need to do this once per install.
 
 ### Opening on Linux:
