@@ -18,7 +18,7 @@ Or browse [all releases](https://github.com/ColeC27/MangaPinDesktop-Releases/rel
 1. If **Windows protected your PC** (SmartScreen) appears:
    - Click **More info**
    - Click **Run anyway**
-2. If the `.exe` still will not start: right-click it → **Properties** → check **Unblock** → **Apply** → **OK**, then run it again.
+2. If the `.exe` still will not start: right-click it → **Properties** → check **Unblock** → **Apply** → **OK**, then run it again.  
 After the first **Run anyway**, Windows usually stops asking.  
 If **Smart App Control** is on (some Windows 11 PCs), it can block unsigned apps entirely. You'll have to turn it off.
 
