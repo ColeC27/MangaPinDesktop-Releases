@@ -1,4 +1,4 @@
-# MangaPin Desktop Releases/Updates
+# MangaPin Desktop Releases (BETA)
 App auto-updates, no need to redownload.
 
 #### DISCLAIMER: 
