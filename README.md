@@ -22,7 +22,7 @@ Or browse [all releases](https://github.com/ColeC27/MangaPinDesktop-Releases/rel
 2. If the `.exe` still will not start: right-click it → **Properties** → check **Unblock** → **Apply** → **OK**, then run it again.
 
 After the first **Run anyway**, Windows usually stops asking.  
-If **Smart App Control** is on (some Windows 11 PCs), it can block unsigned apps entirely. It may work if you just try to open it again , otherwise you may have to turn Smart App Control off.
+If **Smart App Control** is on (some Windows 11 PCs), it can block unsigned apps entirely. It may work if you just try to open it again, otherwise you may have to turn Smart App Control off.
 
 ### Opening on Mac:
 1. Open the `.dmg` and drag **MangaPin** to **Applications**.
