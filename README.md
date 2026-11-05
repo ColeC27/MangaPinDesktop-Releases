@@ -2,7 +2,7 @@
 App auto-updates, no need to redownload.
 
 ### DISCLAIMER: 
-For now, this beta version of the app is unsigned, as that would mean paying hundreds of dollars each year to sign them on different platforms. Due to this, MangaPin Desktop may be more difficult to open than other apps you are used to. Read the bottom of this document for instructions if needed.
+For now, this beta version of the app is unsigned, as that would mean paying lots of money each year to sign them on different platforms. Due to this, MangaPin Desktop may be more difficult to open than other apps you are used to. Read the bottom of this document for instructions if needed.
 
 ## Download Latest Release:
 
